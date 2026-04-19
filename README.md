@@ -49,6 +49,7 @@ This project is based on a research work that has been accepted as a manuscript,
 1. │── bin/
 1. │── src/                # Source code
 3. │── README.md
+4. │── BMS.txt             # EXmple Input
 
 
 ## 🔧 Future Improvements
