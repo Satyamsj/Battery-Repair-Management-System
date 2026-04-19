@@ -46,8 +46,8 @@ This project is based on a research work that has been accepted as a manuscript,
 
 ## 📁 Project Structure
  Battery-Repair-System/
+1. │── bin/
 1. │── src/                # Source code
-2. │── examples/           # Sample inputs and outputs
 3. │── README.md
 
 
